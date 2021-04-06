@@ -1,7 +1,7 @@
 ### Welcome to my GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/josereinoso/">
-  <img align="left" alt="JoseAReinoso's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="JoseAReinoso's LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 
@@ -24,7 +24,7 @@ If I'm not programming or problem solving, I'm spending quality time with my fam
   <img align="right" alt="GIF" src="https://github.com/JoseAReinoso/JoseAReinoso/blob/main/code.gif" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@joseReinoso](https://www.linkedin.com/in/josereinoso/);
+- 📫 How to reach me: [@joseReinoso](mailto:jose.a.reinoso39@gmail.com);
 
 **Languages and Tools:**  
 <br />

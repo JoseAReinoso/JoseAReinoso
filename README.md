@@ -5,7 +5,7 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=JoseAReinoso.JoseAReinoso) ![](https://img.shields.io/github/followers/JoseAReinoso?style=plastic)
+![](https://visitor-badge.glitch.me/badge?page_id=JoseAReinoso.JoseAReinoso) ![](https://img.shields.io/github/followers/JoseAReinoso)
 
 
 
@@ -19,6 +19,7 @@ If I'm not programming or problem solving, I'm spending quality time with my fam
 
 ***"Putting a customer's need first, if you already defined the problem/need correctly, you almost have the solution, and once a solution is found, it can be certainly repeated through automation - [Jose Reinoso](https://www.linkedin.com/in/josereinoso/)"***
 
+<br />
 
   <img align="right" alt="GIF" src="https://github.com/JoseAReinoso/JoseAReinoso/blob/main/code.gif" width="500" height="320" />
   

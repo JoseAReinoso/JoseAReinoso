@@ -5,7 +5,7 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=JoseAReinoso.JoseAReinoso) git![](https://img.shields.io/github/followers/JoseAReinoso?style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=JoseAReinoso.JoseAReinoso) ![](https://img.shields.io/github/followers/JoseAReinoso?style=plastic)
 
 
 
@@ -49,7 +49,7 @@ If I'm not programming or problem solving, I'm spending quality time with my fam
 
 
 
-
+<br />
 
 📈 My GitHub Stats
 

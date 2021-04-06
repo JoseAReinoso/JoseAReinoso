@@ -1,11 +1,15 @@
-### Welcome to my README! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Welcome to my GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a href="https://www.linkedin.com/in/josereinoso/">
   <img align="left" alt="JoseAReinoso's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=JoseAReinoso.JoseAReinoso)
+
+![](https://visitor-badge.glitch.me/badge?page_id=JoseAReinoso.JoseAReinoso)
+
+
 
 <br />
 

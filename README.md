@@ -18,7 +18,7 @@ If I'm not programming or problem solving, I'm spending quality time with my fam
 ***To view my latest projects, please scroll down to the Accomplishments section***
 
 
-  <img align="right" alt="GIF" src="https://github.com/JoseAReinoso/JoseAReinoso/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/JoseAReinoso/JoseAReinoso/blob/main/code.gif width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@joseReinoso](https://www.linkedin.com/in/josereinoso/);

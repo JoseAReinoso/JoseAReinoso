@@ -5,7 +5,7 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=JoseAReinoso.JoseAReinoso) ![](https://visitor-badge.glitch.me/badge?page_id=JoseAReinoso.JoseAReinoso)
+![](https://visitor-badge.glitch.me/badge?page_id=JoseAReinoso.JoseAReinoso) git![](https://img.shields.io/github/followers/JoseAReinoso?style=social)
 
 
 

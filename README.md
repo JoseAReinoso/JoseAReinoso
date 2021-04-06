@@ -27,6 +27,7 @@ If I'm not programming or problem solving, I'm spending quality time with my fam
 - 📫 How to reach me: [@joseReinoso](https://www.linkedin.com/in/josereinoso/);
 
 **Languages and Tools:**  
+<br />
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
